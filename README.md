@@ -13,6 +13,7 @@ This script helps you automatically add members to your Telegram channel.
 1. Install the required dependencies:
    ```bash
    pip install -r requirements.txt
+   
    ```
 
 2. Get your Telegram API credentials:
